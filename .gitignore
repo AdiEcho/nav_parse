@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# IDE
+.vs/
+.idea/
+
+# release
+nav_parse/
+x64/
